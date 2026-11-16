@@ -264,3 +264,21 @@ W&B: https://wandb.ai/tebenko-pn-ucu/visdrone-hw2 - там лише 3 прого
 | 05 | YOLO11s 1536 | 0.217 | 0.423 | 0.114 | 0.2312 |
 | 03 | Faster R-CNN base | 0.2245 | 0.458 | 0.105 | 0.2172 |
 | 04 | RetinaNet base | 0.178 | 0.341 | 0.067 | 0.172 |
+
+
+## Джерела
+
+- VisDrone: https://arxiv.org/abs/2001.06303
+- COCO (метрика mAP): https://arxiv.org/abs/1405.0312
+- pycocotools: https://github.com/cocodataset/cocoapi
+- Faster R-CNN: https://arxiv.org/abs/1506.01497
+- FPN: https://arxiv.org/abs/1612.03144
+- RetinaNet / focal loss: https://arxiv.org/abs/1708.02002
+- TOOD (TAL у YOLO11): https://arxiv.org/abs/2108.07755
+- Generalized Focal Loss (DFL): https://arxiv.org/abs/2006.04388
+- DETR: https://arxiv.org/abs/2005.12872
+- RT-DETR: https://arxiv.org/abs/2304.08069
+- SAHI: https://arxiv.org/abs/2202.06934
+- WBF (реалізовано за статтею): https://arxiv.org/abs/1910.13302
+- TorchVision: https://docs.pytorch.org/vision/main/models.html
+- Ultralytics: https://docs.ultralytics.com/
